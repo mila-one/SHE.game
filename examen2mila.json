@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.0",
+"dataUrl": "examen2mila.data.unityweb",
+"asmCodeUrl": "examen2mila.asm.code.unityweb",
+"asmMemoryUrl": "examen2mila.asm.memory.unityweb",
+"asmFrameworkUrl": "examen2mila.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
